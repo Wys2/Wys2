@@ -6,6 +6,7 @@ I'm a young developper. I'm actulally a front-end developper, but i'm trying ful
 I love games, chat with friends, learn.
 
 I'm from 🇨🇭, and speak 🇫🇷 
+
 You can find me on :
 - Instagram : @noahs_wys
 - Twitter : @WysLalegende
