@@ -16,4 +16,4 @@ You can find me on :
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wys2&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1b1c19&custom_title=
-Stats&include_all_commits=true" width="425"/> </a> <img src="https://github-readme-streak-stats.herokuapp.com?user=Wys2&theme=tokyonight_duo&background=1b1c19&hide_border=true" alt="piwix" width="425" /> </p>
+Stats&include_all_commits=true" width="425"/> </a>
