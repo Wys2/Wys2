@@ -3,7 +3,8 @@
 
 Hello, i'm Wys.
 I'm a young developper. I'm actulally developping in Web languages (eg. html, css, js, php), py, DJS.
-I love games, chat with friends, learn.
+
+I love games, anime, chat with friends, learn.
 
 I'm from 🇨🇭, and speak 🇫🇷 
 
