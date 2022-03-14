@@ -2,7 +2,7 @@
 
 
 Hello, i'm Wys.
-I'm a young developper. I'm actulally developping in Web languages (eg. html, css, js, php), py, DJS.
+I'm a young developper. I'm actulally developping in Web languages, and a NodeJs Developper.
 
 I love games, anime, chat with friends, learn.
 
@@ -12,9 +12,9 @@ I'm from 🇨🇭, and speak 🇫🇷
 
 You can find me on :
 - Instagram : @noahs_wys
-- Twitter : @WysLalegende
-- On the web : https://imwys.tech
-- Discord : https://imwys.tech/discord
+- Twitter : @ColonelWys
+- On the web : https://schmidtnoah.ch
+- Discord : Colonel Wys#0001
 
 <div align="center">
 <br>
